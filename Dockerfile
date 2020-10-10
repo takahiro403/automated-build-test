@@ -1,3 +1,3 @@
 FROM dockersamples/static-site
-ENV AUTHOR="Homare Endo"
+ENV AUTHOR="Takahiro Sonoda"
 
